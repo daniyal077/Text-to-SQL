@@ -19,7 +19,7 @@ This is a **Text-to-SQL** web application built with **Streamlit**. It allows us
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/daniyal077/Text-to-SQL-.git
+git clone https://github.com/daniyal077/Text-to-SQL.git
 cd Text-to-SQL
 ```
 
